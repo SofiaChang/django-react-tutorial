@@ -1,0 +1,3 @@
+.env
+*.pem
+db.sqlite3
